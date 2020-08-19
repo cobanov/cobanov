@@ -19,11 +19,6 @@
 [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
 
-## Youtube
-Veri bilimi ve Makine Öğrenmesi ile alakalı videolar çekiyorum. Aynı zamanda python ile alakalı videolar da bulabilirsin!
-
-<a href="https://www.youtube.com/mertcobanov"><img src="https://github.com/cobanov/cobanov/blob/master/img/videolar.png?raw=true"></a>
-
 ## Blogs
 ### GitHub
 * [Machine Learning'e Başlarken](https://cobanov.github.io/sss/)
