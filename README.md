@@ -11,7 +11,7 @@
 
 ## Youtube
 I'm making YouTube videos about Data Science and Machine Learning. You can find python tricks also.
-<a href="https://ibb.co/MsGHhSk"><img src="https://i.ibb.co/47YLftR/image.png" alt="image" border="0"></a>
+<a href="https://www.youtube.com/mertcobanov"><img src="img/videolar.png"></a>
 
 ## Blogs
 ### GitHub
