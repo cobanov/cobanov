@@ -22,7 +22,7 @@
 ## Youtube
 Veri bilimi ve Makine Öğrenmesi ile alakalı videolar çekiyorum. Aynı zamanda python ile alakalı videolar da bulabilirsin!
 
-<a href="https://www.youtube.com/mertcobanov"><img src="img/videolar.png"></a>
+<a href="https://www.youtube.com/mertcobanov"><img src="https://github.com/cobanov/cobanov/blob/master/img/videolar.png?raw=true"></a>
 
 ## Blogs
 ### GitHub
