@@ -37,9 +37,5 @@ Veri bilimi ve Makine Öğrenmesi ile alakalı videolar çekiyorum. Aynı zamand
 * [Türkçe Markdown Rehberi](https://medium.com/deep-learning-turkiye/t%C3%BCrk%C3%A7e-markdown-rehberi-61779d2e2a96)
 
 
-## Stats
-![Cobanov's github stats](https://github-readme-stats.vercel.app/api?username=cobanov)
-
-
 
 
