@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
 
-## Hey, I'm Mert Cobanov! 
+# Hey, I'm Mert Cobanov! 
 I work as a data scientist at **Refik Anadol Studio** and write code on generative art.
 
 
