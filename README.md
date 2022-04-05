@@ -6,7 +6,4 @@ I work as a data scientist at **Refik Anadol Studio** and write code for generat
 
 [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
-
-
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=cobanov)
