@@ -1,6 +1,3 @@
-Hi 👋 My name is Mert Cobanov
-=============================
-
 Data Scientist and Generative Artist
 ------------------------------------
 
