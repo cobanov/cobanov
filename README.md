@@ -1,5 +1,6 @@
 Data Scientist and Generative Artist
 ------------------------------------
+01010011 01000001 🙋‍♂️
 
 Community lover, data scientist and generative artist. I love to share what I know, so I try to provide free data science and machine learning education to everyone on my twitter and youtube channel. I teach at several schools and communities each year. I work as a data scientist at Refik Anadol Studio, where we do great artistic works with my excellent team, and we try to digitize the memories of humanity to immortalize it.
 
