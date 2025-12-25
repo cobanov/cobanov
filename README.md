@@ -13,5 +13,3 @@ Community lover, data scientist and generative artist. I love to share what I kn
 src="https://img.shields.io/github/followers/cobanov?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/mertcobanov" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mertcobanov?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
-<a href="http://www.github.com/cobanov"><img src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cobanov's GitHub stats" /></a>
