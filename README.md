@@ -23,8 +23,10 @@ Checkout my [website](https://cobanov.dev), [GitHub](https://github.com/cobanov)
 - [teslamate-mcp](https://github.com/cobanov/teslamate-mcp) - MCP server that lets AI assistants query your TeslaMate database in natural language.
 - [Soft Club UI](https://github.com/cobanov/soft-club) - React component library and shadcn-compatible registry for late-90s green-glass interfaces.
 - [websum](https://github.com/cobanov/websum) - Summarize web pages and YouTube videos with pluggable LLM backends.
-- [depth2normal](https://github.com/cobanov/depth2normal) - Convert depth map images to RGB normal maps for shading and 3D workflows.
+- [bucketsampler](https://github.com/cobanov/bucketsampler) - Aspect ratio bucketing for diffusion training. PyTorch native, DDP correct.
+- [semaclust](https://github.com/cobanov/semaclust) - Semantic text clustering using sentence embeddings and agglomerative clustering.
 - [tasnif](https://github.com/cobanov/tasnif) - Unsupervised image clustering with modern deep embeddings, PCA, and K-Means.
+- [depth2normal](https://github.com/cobanov/depth2normal) - Convert depth map images to RGB normal maps for shading and 3D workflows.
 - [better-tailscale-ls](https://github.com/cobanov/better-tailscale-ls) - A nicer `tailscale status`: colored, sorted, filterable, with online/offline counts.
 
 ### Interactive Writing
