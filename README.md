@@ -21,7 +21,7 @@ Checkout my [website](https://cobanov.dev), [GitHub](https://github.com/cobanov)
 ### Developer Tools & Libraries
 
 - [teslamate-mcp](https://github.com/cobanov/teslamate-mcp) - MCP server that lets AI assistants query your TeslaMate database in natural language.
-- [Soft Club UI](https://github.com/cobanov/soft-club) - React component library and shadcn-compatible registry for late-90s green-glass interfaces.
+- [Soft Club UI](https://cobanov.github.io/soft-club-ui/) - React component library and shadcn-compatible registry for late-90s green-glass interfaces.
 - [websum](https://github.com/cobanov/websum) - Summarize web pages and YouTube videos with pluggable LLM backends.
 - [bucketsampler](https://github.com/cobanov/bucketsampler) - Aspect ratio bucketing for diffusion training. PyTorch native, DDP correct.
 - [semaclust](https://github.com/cobanov/semaclust) - Semantic text clustering using sentence embeddings and agglomerative clustering.
