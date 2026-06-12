@@ -4,6 +4,11 @@ Senior AI engineer at [Refik Anadol Studio](https://refikanadolstudio.com/), bui
 
 Checkout my [website](https://cobanov.dev), [GitHub](https://github.com/cobanov), or the projects below.
 
+## Interactive Writing
+
+- [How AI Agent Memory Works](https://memory.cobanov.dev/) - Interactive guide to context, retrieval, vector memory, and production memory systems.
+- [KV Cache & Flash Attention](https://kvcache.cobanov.dev/) - Interactive walkthrough of LLM inference optimizations with Python and animated diagrams.
+
 ## Products
 
 - [dockwatch](https://dockwatch.cobanov.dev/) - Tiny self-hosted Docker container monitoring with phone alerts via ntfy.
@@ -26,8 +31,3 @@ Checkout my [website](https://cobanov.dev), [GitHub](https://github.com/cobanov)
 - [websum](https://github.com/cobanov/websum) - Summarize web pages and YouTube videos with pluggable LLM backends.
 - [bucketsampler](https://github.com/cobanov/bucketsampler) - Aspect ratio bucketing for diffusion training. PyTorch native, DDP correct.
 - [depth2normal](https://github.com/cobanov/depth2normal) - Convert depth map images to RGB normal maps for shading and 3D workflows.
-
-## Interactive Writing
-
-- [How AI Agent Memory Works](https://memory.cobanov.dev/) - Interactive guide to context, retrieval, vector memory, and production memory systems.
-- [KV Cache & Flash Attention](https://kvcache.cobanov.dev/) - Interactive walkthrough of LLM inference optimizations with Python and animated diagrams.
