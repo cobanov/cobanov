@@ -11,7 +11,6 @@ Checkout my [website](https://cobanov.dev), [GitHub](https://github.com/cobanov)
 - [dockwatch](https://dockwatch.cobanov.dev/) - Tiny self-hosted Docker container monitoring with phone alerts via ntfy.
 - [Bartainer](https://bartainer.app/) - Docker containers in your macOS menu bar, local and remote over SSH.
 - [autocut](https://autocut.cobanov.dev/) - Remove silent gaps from videos and export to DaVinci Resolve, Premiere, or MP4.
-- [SemVault](https://semvault.dev/) - Semantic storage for notes, secrets, and automation, with embeddings and a clean HTTP API.
 - [pathbook.guide](https://pathbook.guide/) - Step-by-step guides you can track, fork, and share.
 - [vitrin.dev](https://vitrin.dev/) - Community-driven second-hand marketplace for tech, hobbies, and collectibles.
 - [Instagram Unfollowers](https://instagram.cobanov.dev/) - Find and unfollow people who do not follow you back on Instagram.
